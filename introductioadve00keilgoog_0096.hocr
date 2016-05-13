@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./introductioadve00keilgoog_0096.png"; bbox 0 0 649 1149; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 465 725 619 1071">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 465 725 619 1071">
+     <span class='ocr_line' id='line_1_1' title="bbox 465 725 619 1071; baseline 0 -260"><span class='ocrx_word' id='word_1_1' title='bbox 465 725 619 1071; x_wconf 95' lang='lat' dir='ltr'>     </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 169 678 556 770">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 169 678 573 762">
+     <span class='ocr_line' id='line_1_2' title="bbox 170 678 556 718; baseline 0.002 -10"><span class='ocrx_word' id='word_1_2' title='bbox 170 678 556 718; x_wconf 51' lang='lat' dir='ltr'>¹⁶.&lt;1==n=1n§11==«sae‹2magnumst,mu¹</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 169 709 506 736; baseline 0 -4"><span class='ocrx_word' id='word_1_3' title='bbox 169 709 506 736; x_wconf 56' lang='lat' dir='ltr'>mammete-&#39;mmmm</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 183 736 458 770; baseline 0.008 -14.075"><span class='ocrx_word' id='word_1_4' title='bbox 183 736 458 770; x_wconf 52' lang='lat' dir='ltr'>‘mvnmwypdoe</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 62 847 585 932">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 62 834 585 930">
+     <span class='ocr_line' id='line_1_5' title="bbox 62 847 565 880; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 62 873 66 876; x_wconf 81' lang='grc'><em>.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 97 857 156 870; x_wconf 45' lang='grc' dir='ltr'>’ὢν</span> <span class='ocrx_word' id='word_1_7' title='bbox 167 860 198 880; x_wconf 67' lang='lat' dir='ltr'>nm</span> <span class='ocrx_word' id='word_1_8' title='bbox 562 847 565 850; x_wconf 55' lang='lat'><strong>¹</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 95 857 585 932; baseline 0 -27"><span class='ocrx_word' id='word_1_9' title='bbox 95 857 508 932; x_wconf 49' lang='lat' dir='ltr'>fflfflfflu</span> <span class='ocrx_word' id='word_1_10' title='bbox 493 889 525 922; x_wconf 35' lang='grc' dir='ltr'>ιτ·</span> <span class='ocrx_word' id='word_1_11' title='bbox 559 878 585 917; x_wconf 29' lang='grc' dir='ltr'>’.ᾗ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./introductioadve00keilgoog_0028.png"; bbox 0 0 649 1149; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 257 95 485 132">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 257 95 485 132">
+     <span class='ocr_line' id='line_1_1' title="bbox 257 95 485 132; baseline -0.022 -5"><span class='ocrx_word' id='word_1_1' title='bbox 257 97 298 127; x_wconf 82' lang='lat' dir='ltr'><em>De</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 310 96 384 127; x_wconf 68' lang='lat' dir='ltr'><em>Bffotu</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 395 95 485 132; x_wconf 80' lang='lat' dir='ltr'><em>vifibili</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 254 187 435 206">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 254 187 435 206">
+     <span class='ocr_line' id='line_1_2' title="bbox 254 187 435 206; baseline 0 -4"><span class='ocrx_word' id='word_1_4' title='bbox 254 187 376 206; x_wconf 49' lang='lat' dir='ltr'><em>f—</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 385 187 435 198; x_wconf 37' lang='lat' dir='ltr'><em>tx</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 264 417 508 949">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 264 417 508 949">
+     <span class='ocr_line' id='line_1_3' title="bbox 264 417 508 949; baseline 0 200"><span class='ocrx_word' id='word_1_6' title='bbox 264 417 508 949; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
